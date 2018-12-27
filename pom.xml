@@ -4,7 +4,7 @@
 
     <groupId>com.springexpress</groupId>
     <artifactId>spring5-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -56,6 +56,6 @@
     <developerConnection>
         scm:git:git@github.com:letmelearncode/spring5-pet-clinic.git
     </developerConnection>
-  <tag>spring5-pet-clinic-0.0.1</tag>
+  <tag>HEAD</tag>
   </scm>
 </project>
